@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Danny Ramos
 
-<!--
-**DannyxRamos/DannyxRamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Research Analyst at Bergen Community College with a background in mathematics, education, and engineering. I specialize in educational data analysis, automation, and institutional reporting. I use Python, Excel, Power Bi, and SurveyMonkey to turn complex data into accessible insights for stakeholders.
 
-Here are some ideas to get you started:
+## 🔍 Focus Areas
+- Education data analytics (CLNA, Perkins V, VEDS, GFU, etc.)
+- Survey design, cleaning, and logic programming (SurveyMonkey)
+- Automation with Python for reporting and document generation
+- Visualization and reporting for decision-making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- 📧 Email: [dannyramos313@gmail.com](mailto:dannyramos313@gmail.com)
+- 🔗 [LinkedIn](https://linkedin.com/in/your-link-here)
+- 🗂️ [GitHub Portfolio](https://github.com/DannyxRamos)
+
+## ⚒️ Tools & Skills
+`Python` `pandas` `Excel` `SPSS` `SurveyMonkey` `SQL` `Informer` `Google Sites`  
