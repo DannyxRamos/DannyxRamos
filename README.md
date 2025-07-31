@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Danny Ramos
-
-I'm a Research Analyst at Bergen Community College with a background in mathematics, education, and engineering. I specialize in educational data analysis, automation, and institutional reporting. I use Python, Excel, Power Bi, and SurveyMonkey to turn complex data into accessible insights for stakeholders.
+Hello! My name is Danny Ramos, and I'm a Research Analyst at Bergen Community College with a background in mathematics, education, and engineering. I specialize in educational data analysis, automation, and institutional reporting. I use Python, Excel, Power Bi, and SurveyMonkey to turn complex data into accessible insights for stakeholders.
 
 ## 🔍 Focus Areas
 - Education data analytics (CLNA, Perkins V, VEDS, GFU, etc.)
