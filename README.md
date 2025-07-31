@@ -7,7 +7,7 @@ Hello! My name is Danny Ramos, and I'm a Research Analyst at Bergen Community Co
 - Visualization and reporting for decision-making
 
 ## Contact
-- 📧 Email: [dannyramos313@gmail.com](mailto:dannyramos313@gmail.com)
+- Email: [dannyramos313@gmail.com](mailto:dannyramos313@gmail.com)
 
 ## Tools & Skills
 `Python` `pandas` `Excel` `SPSS` `SurveyMonkey` `SQL` `Informer` `Google Sites`  
